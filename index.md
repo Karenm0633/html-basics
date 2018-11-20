@@ -29,7 +29,7 @@
 * line break: `<br>`
 * image: `<img src="URL">`
 * link (anchor): `<a href="URL"></a>`
-* code: `<code></code>`
+* code:`<code></code>`
 * bold: `<strong></strong>`
 * italicized: `<em></em>`
 * span (container): `<span></span>`
